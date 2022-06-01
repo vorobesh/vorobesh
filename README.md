@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px" /> </h1>
+<h1 align="center">Hi everyone! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="20px" /> </h1>
 
 <h3 align="center"> I'm a Full Stack JS developer </h3>
 
